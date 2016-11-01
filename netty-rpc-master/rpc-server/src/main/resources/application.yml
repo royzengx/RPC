@@ -1,0 +1,5 @@
+rpcServer:
+    host: 127.0.0.1
+    ioThreadNum: 5
+    backlog: 1024
+    port: 9090
